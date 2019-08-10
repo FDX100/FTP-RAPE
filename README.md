@@ -4,7 +4,7 @@ best FTP dictonary attacker made with python
 ```
 git clone https://github.com/FDX100/FTP-RAPE.git
 cd FTP-RAPE
-python FTP-RAPE.py
+python install.py
 ```
 ### Requirement:
 ```
