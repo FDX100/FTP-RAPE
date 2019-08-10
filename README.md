@@ -1,5 +1,6 @@
 # FTP-RAPE
-best FTP dictonary attacker made with python
+best FTP dictonary attacker made with python 
+This tool is tested on kali linux 2019
 ### Usage:
 ```
 git clone https://github.com/FDX100/FTP-RAPE.git
