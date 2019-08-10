@@ -2,6 +2,8 @@ import os
 choice = raw_input('to install press (Y) to uninstall press (N) >> ')
 run = os.system
 if choice =='Y' or choice=='y':
+    run('pip install ftplib')
+    run('pip install os')
     run('chmod 777 FTP-RAPE.py')
     run('mkdir /usr/share/ftp-rape')
     run('cp FTP-RAPE.py /usr/share/ftp-rape/FTP-RAPE.py')
